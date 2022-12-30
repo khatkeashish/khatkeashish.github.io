@@ -1,10 +1,10 @@
 ---
 title: "About"
 ---
+I am a Powertrain Engineer turned Data Scientist and passionate about automotive engineering, artificial intelligence, machine learning and control systems. Currently, I am working as a Senior Data Scientist at [Thoughtworks](https://thoughtworks.com) Finland.
 
-I am a Powertrain/Mechanical engineer turned Data Scientist. Currently I'm working at [Thoughtworks](https://www.thoughtworks.com/).
 
-
+---
 ## Education
 #### MS in Powertrain Engineering, 2015
 IFP School      | Paris, France
