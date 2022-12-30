@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I am a Powertrain/Mechanical engineer turned Data Scientist. Currently I’m working at Thoughtworks."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nMS in Powertrain Engineering, 2015\nIFP School | Paris, France\n\n\nBTech in Mechanical Engineering, 2009\nIIT Delhi | Delhi, India"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "khatkeashish.github.io",
+    "title": "Ashish Khatke",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Data Scientist | Powertrain Engineer\nAssisting enterprises by supporting data-driven decision-making."
   }
 ]
