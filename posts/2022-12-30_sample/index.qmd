@@ -14,3 +14,6 @@ format:
     toc: true
 draft: false
 ---
+## Sample post
+
+This is just a sample post to start with
