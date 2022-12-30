@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/khatkeashish/khatkeashish.github.io/about.html</loc>
-    <lastmod>2022-12-30T12:32:46.022Z</lastmod>
+    <lastmod>2022-12-30T13:01:21.858Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/khatkeashish/khatkeashish.github.io/posts.html</loc>
-    <lastmod>2022-12-30T12:32:48.382Z</lastmod>
+    <lastmod>2022-12-30T13:01:23.938Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/khatkeashish/khatkeashish.github.io/posts/2022-12-30_sample/index.html</loc>
+    <lastmod>2022-12-30T13:01:24.378Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/khatkeashish/khatkeashish.github.io/index.html</loc>
-    <lastmod>2022-12-30T12:32:48.766Z</lastmod>
+    <lastmod>2022-12-30T13:01:24.706Z</lastmod>
   </url>
 </urlset>

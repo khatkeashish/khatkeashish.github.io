@@ -18,13 +18,20 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "No matching items"
+    "text": "Sample post\n\n\n\nSample\n\n\n\n\n\n\n\nAshish Khatke\n\n\nDec 30, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2022-12-30_sample/index.html",
+    "href": "posts/2022-12-30_sample/index.html",
+    "title": "Sample post",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{khatke2022,\n  author = {Ashish Khatke},\n  title = {Sample Post},\n  date = {2022-12-30},\n  url = {https://khatkeashish.github.io/posts/2022-12-30_sample-post},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nAshish Khatke. 2022. “Sample Post.” December 30, 2022. https://khatkeashish.github.io/posts/2022-12-30_sample-post."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ashish Khatke",
     "section": "",
-    "text": "Data Scientist | Powertrain Engineer\nAssisting enterprises by supporting data-driven decision-making."
+    "text": "Data Scientist\nAssisting enterprises with data-driven decision-making."
   }
 ]
