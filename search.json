@@ -18,14 +18,21 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Sample post\n\n\n\nSample\n\n\n\n\n\n\n\nAshish Khatke\n\n\nDec 30, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Jupyter Notebook Blog\n\n\n\nNotebook\n\n\nSample\n\n\n\n\n\n\n\nAshish Khatke\n\n\nDec 30, 2022\n\n\n\n\n\n\n\n\n\n\n\nSample post\n\n\n\nSample\n\n\n\n\n\n\n\nAshish Khatke\n\n\nDec 30, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2022-12-30_notebook/index.html",
+    "href": "posts/2022-12-30_notebook/index.html",
+    "title": "Jupyter Notebook Blog",
+    "section": "",
+    "text": "For a demonstration Jupyter notebook blog\nFor a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis\n\n\n\n\n\n\nCode\nimport sys\nprint(sys.executable)\n\n\n/Users/ash/ak/code/khatkeashish.github.io/.venv/bin/python\n\n\n\n\n\nCitationBibTeX citation:@online{khatke2022,\n  author = {Ashish Khatke},\n  title = {Jupyter {Notebook} {Blog}},\n  date = {2022-12-30},\n  url = {https://khatkeashish.github.io/posts/2022-12-30_sample-post},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nAshish Khatke. 2022. “Jupyter Notebook Blog.” December 30,\n2022. https://khatkeashish.github.io/posts/2022-12-30_sample-post."
   },
   {
     "objectID": "posts/2022-12-30_sample/index.html",
     "href": "posts/2022-12-30_sample/index.html",
     "title": "Sample post",
     "section": "",
-    "text": "CitationBibTeX citation:@online{khatke2022,\n  author = {Ashish Khatke},\n  title = {Sample Post},\n  date = {2022-12-30},\n  url = {https://khatkeashish.github.io/posts/2022-12-30_sample-post},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nAshish Khatke. 2022. “Sample Post.” December 30, 2022. https://khatkeashish.github.io/posts/2022-12-30_sample-post."
+    "text": "This is just a sample post to start with"
   },
   {
     "objectID": "index.html",
