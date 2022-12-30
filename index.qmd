@@ -1,7 +1,18 @@
 ---
-title: "khatkeashish.github.io"
+title: "Ashish Khatke"
+image: ./assets/ash.jpg
+about: 
+  template: jolla 
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/ashish-khatke/
+    - icon: github
+      href: https://github.com/khatkeashish
+    - icon: envelope 
+      href: khatkeashish@gmail.com
+
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#### Data Scientist | Powertrain Engineer
+Assisting enterprises by supporting data-driven decision-making.
