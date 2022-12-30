@@ -6,10 +6,17 @@ website:
   title: "Ashish Khatke"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - posts.qmd
+      - text: Home
+        href: index.qmd
+      - text: Bio
+        href: about.qmd
+      - text: Posts
+        href: posts.qmd
+  page-footer:
+    left: "Copyright 2022, Ashish Khatke"
+    right:
+      - icon: github
+        href: https://github.com/khatkeashish
 
 format:
   html:

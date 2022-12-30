@@ -1,0 +1,16 @@
+---
+title: "Sample post" 
+author:
+  - name: Ashish Khatke 
+    url: https://khatkeashish.github.io
+    affiliation: Thoughtworks 
+    affiliation-url: https:/thoughtworks.com
+date: 2022-12-30
+categories: [Sample]
+citation: 
+  url: https://khatkeashish.github.io/posts/2022-12-30_sample-post
+format:
+  html:
+    toc: true
+draft: false
+---

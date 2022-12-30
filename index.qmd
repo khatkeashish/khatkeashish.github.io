@@ -1,6 +1,7 @@
 ---
 title: "Ashish Khatke"
 image: ./assets/ash.jpg
+page-layout: full
 about: 
   template: jolla 
   image-shape: round
@@ -14,5 +15,5 @@ about:
       href: khatkeashish@gmail.com
 
 ---
-#### Data Scientist | Powertrain Engineer
-Assisting enterprises by supporting data-driven decision-making.
+#### Data Scientist 
+Assisting enterprises with data-driven decision-making.
