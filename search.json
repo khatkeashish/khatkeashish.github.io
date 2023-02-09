@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ashish Khatke",
     "section": "",
-    "text": "I am a Powertrain Engineer turned Data Scientist and passionate about automotive engineering, artificial intelligence, machine learning and control systems. Currently, I am working as a Senior Data Scientist at Thoughtworks Finland."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\nMS in Powertrain Engineering, 2015\nIFP School | Paris, France\n\n\nBTech in Mechanical Engineering, 2009\nIIT Delhi | Delhi, India"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
-    "section": "",
-    "text": "Jupyter Notebook Blog\n\n\n\nNotebook\n\n\nSample\n\n\n\n\n\n\n\nAshish Khatke\n\n\nDec 30, 2022\n\n\n\n\n\n\n\n\n\n\n\nSample post\n\n\n\nSample\n\n\n\n\n\n\n\nAshish Khatke\n\n\nDec 30, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Data Scientist\nAssisting enterprises with data-driven decision-making."
   },
   {
     "objectID": "posts/2022-12-30_notebook/index.html",
@@ -35,10 +21,24 @@
     "text": "This is just a sample post to start with"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ashish Khatke",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Data Scientist\nAssisting enterprises with data-driven decision-making."
+    "text": "I am a Powertrain Engineer turned Data Scientist and passionate about automotive engineering, artificial intelligence, machine learning and control systems. Currently, I am working as a Senior Data Scientist at Thoughtworks Finland."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nMS in Powertrain Engineering, 2015\nIFP School | Paris, France\n\n\nBTech in Mechanical Engineering, 2013\nIIT Delhi | Delhi, India"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Jupyter Notebook Blog\n\n\n\nNotebook\n\n\nSample\n\n\n\n\n\n\n\nAshish Khatke\n\n\nDec 30, 2022\n\n\n\n\n\n\n\n\n\n\n\nSample post\n\n\n\nSample\n\n\n\n\n\n\n\nAshish Khatke\n\n\nDec 30, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
